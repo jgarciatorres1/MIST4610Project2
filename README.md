@@ -2,9 +2,12 @@
 Team Name:
 #JAJA
 
-Adiya Tashmetova - 811924443 - @adiyatashmetova 
+Adiya Tashmetova - 811924443 - @adiyatashmetova
+
 Alexa Robles - 811344707 - @Alxaro
+
 Jackie Garcia-Torres - 811301319 - @jgarciatorres1
+
 Jessica Le - 811469318 - @Jess1ica1le
 
 Description of dataset:
