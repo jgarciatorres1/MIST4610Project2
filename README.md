@@ -1,13 +1,11 @@
 # MIST4610Project2
 Team Name:
-21479 Group 2
+#JAJA
 
-Team Members:
-Jessica Le @taralpatel
-Alexa Robles @angelmarsh
-Jackie Garcia @rileydoggett
-Ripley Kurtz@ripleykurtz
-Sequoyeth Simpson @sequoyethsimpson
+Adiya Tashmetova - 811924443 - @adiyatashmetova
+Alexa Robles - 811344707 - @Alxaro
+Jackie Garcia-Torres - 811301319 - @jgarciatorres1
+Jessica Le - 811469318 - @Jess1ica1le
 Description of dataset:
 Our dataset details the crimes committed in Boston. We obtained our dataset through the website provided(https://www.kaggle.com/datasets). Our dataset contains a variety of dimensions that require a variety of different data types. It specifies information such as the incident number, the location of the incident, the district that the incident occurred in, and day of the week that it occurred on. These four dimensions are all of data type string. It also contains dimensions such as the offense code group, the description of the offense, the street it occurred on, the UCR part, and if it was shooting. These dimensions are also of datatype string. A couple more dimensions that are present in our dataset are the hour, month, and the year that the offense occurred. These dimensions are of datatype number(whole). The last dimensions include the date the offense occurred on, which is of datatype date & time, along with the lat and long, that are both of datatype number(decimal). Overall, this dataset has a variation of different dimensions that help us dive deeper into the crimes committed in Boston.
 
