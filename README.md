@@ -11,9 +11,11 @@ Jackie Garcia-Torres - 811301319 - @jgarciatorres1
 Jessica Le - 811469318 - @Jess1ica1le
 
 Description of dataset:
+
 Our dataset details the crimes committed in Boston. We obtained our dataset through the website provided(https://www.kaggle.com/datasets). Our dataset contains a variety of dimensions that require a variety of different data types. It specifies information such as the incident number, the location of the incident, the district that the incident occurred in, and day of the week that it occurred on. These four dimensions are all of data type string. It also contains dimensions such as the offense code group, the description of the offense, the street it occurred on, the UCR part, and if it was shooting. These dimensions are also of datatype string. A couple more dimensions that are present in our dataset are the hour, month, and the year that the offense occurred. These dimensions are of datatype number(whole). The last dimensions include the date the offense occurred on, which is of datatype date & time, along with the lat and long, that are both of datatype number(decimal). Overall, this dataset has a variation of different dimensions that help us dive deeper into the crimes committed in Boston.
 
 Question 1:
+
 Question: In Boston, what days of the week tend to have more drug violations? For those days of the week that experience more drug violations, what times during the year do those same days experience most of their drug violations?
 
 Importance:
@@ -29,6 +31,7 @@ Screen Shot 2023-04-27 at 6 57 29 PM
 We excluded Saturday and Sunday because of their low incident reports and analyzed Monday - Friday. In this visualization, we look at how these different days experience drug violation incidents throughout the year. Our results represent similar trends between all five days, where there’s a spike in incidents in March, followed by a decline in April, leading to a steady increase throughout the summer, where drug violations reach their peak for all days in July/August. Then, the number of violations declines steadily throughout the remainder of the year. This information is useful to know so the police department ensures they have adequate staff for the higher demand on the job during the summer. Additionally, it is helpful for the public to be more aware of the fact that drug violations are more likely to occur during the summer so the public takes adequate safety measures and avoids areas that have a lot of drug violations likely to occur.
 
 Question 2:
+
 Question: During what hours and in which districts does Boston have the most drug violations? For the district and hours with the most drug violations, what street is the most popular location for drug violations?
 
 Importance:
