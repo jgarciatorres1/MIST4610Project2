@@ -28,6 +28,7 @@ Our first bar chart graph illustrates the count of homeless individuals that occ
 
 ![Figure 2](https://github.com/jgarciatorres1/MIST4610Project2/assets/100004680/37619b5f-640f-4bc0-b69a-be38a75f3ecb)
 
+
 We then experimented with exploring a specific age group across the 2017-2023 timeline. We noticed there was an increase in homelessness in individuals 65 and older. This leads us to a larger conclusion that there could be a significant increase in the aging population and therefore may be a corresponding increase in the number of seniors experiencing homelessness.
 
 Question 2:
@@ -50,5 +51,10 @@ When adding age as a factor we can observe at what ages different racial groups 
 Manipulations applied to the data set for analysis:
 We did not need to conduct any manipulations or calculations to the existing data. We went through our data and did not find any duplicates or redundancies within the data sets. We successfully conducted a quantitative analysis, allowing us to use the data into measurable and meaningful insights about the rates of homelessness within the state of California.
 
+
+
+
 Tableau packaged workbook:
 The packaged workbook containing the visualizations shown above is attached to this repository.
+[MIST4610Project2.csv](https://github.com/jgarciatorres1/MIST4610Project2/files/13592459/MIST4610Project2.csv)
+
