@@ -22,7 +22,7 @@ Importance:
 
 Understanding the distribution of homelessness across different age groups, along with changes by gender, is crucial for developing targeted and effective interventions to address the specific needs of diverse demographic segments. By identifying which age groups are facing the most significant struggles with homelessness, policymakers and social organizations can tailor their strategies to provide more tailored and impactful support.
 
-![Figure 1](https://github.com/jgarciatorres1/MIST4610Project2/assets/100004680/9e8af4f0-f12f-42de-a969-76c141410576).
+![Figure 1](https://github.com/jgarciatorres1/MIST4610Project2/assets/100004680/9e8af4f0-f12f-42de-a969-76c141410576)
 
 Our first bar chart graph illustrates the count of homeless individuals that occur within California based by gender and age groups. We noticed that the young age group of male, female, transgender and unknown individuals between the ages of 18-24 and 18 under disproportionately faced the most issues with homelessness. 
 
@@ -48,7 +48,7 @@ In the first graph we examined Homelessness just by race within the data. We obs
 When adding age as a factor we can observe at what ages different racial groups in California experience different counts of homelessness. In our last chart we observed that White Californians experience a higher count of homelessness and the chart above expands on the ages and White Californians between the ages of 35-44(16,502), 45-54(16,328), and 55-64(15,869) have counts over 15,000. Only those with multiple Races between the ages of 18-24(15,993)and Black, African Americans between 55-64 (15,707) are the other groups who have counts of over 15,000. 
 
 Manipulations applied to the data set for analysis:
-We did not need to conduct any manipulations or calculations to the existing data. We went through our data and did not find any duplicates or redundancies within the data sets. We successfully conducted a quantitative analysis, allowing us to use the data into measurable and meaningful insights about the rates of homelessness within the state of California
+We did not need to conduct any manipulations or calculations to the existing data. We went through our data and did not find any duplicates or redundancies within the data sets. We successfully conducted a quantitative analysis, allowing us to use the data into measurable and meaningful insights about the rates of homelessness within the state of California.
 
 Tableau packaged workbook:
 The packaged workbook containing the visualizations shown above is attached to this repository.
