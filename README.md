@@ -7,7 +7,7 @@ Alexa Robles - 811344707 - [@Alxaro](https://github.com/alxaro/MIST4610Project2)
 
 Jackie Garcia-Torres - 811301319 - [@jgarciatorres1](https://github.com/jgarciatorres1/MIST4610Project2)
 
-Jessica Le - 811469318 - @Jess1ica1le
+Jessica Le - 811469318 - [@Jess1ica1le](https://github.com/Jess1ica1le/Project2)
 
 Description of dataset:
 
