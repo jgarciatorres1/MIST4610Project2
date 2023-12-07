@@ -57,4 +57,6 @@ We did not need to conduct any manipulations or calculations to the existing dat
 Tableau packaged workbook:
 The packaged workbook containing the visualizations shown above is attached to this repository.
 [MIST4610Project2.csv](https://github.com/jgarciatorres1/MIST4610Project2/files/13592459/MIST4610Project2.csv)
+![Count of Homlessness of Each Age Group from 2017 to 2023](https://github.com/jgarciatorres1/MIST4610Project2/assets/123336305/2c6c81a8-640f-4772-a54f-2a417a3e50b8)
+![Count of Homlessness by Age and Gender](https://github.com/jgarciatorres1/MIST4610Project2/assets/123336305/3a323ebe-6fdb-415d-956c-ed00aa76a75f)
 
