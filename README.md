@@ -1,12 +1,11 @@
 # MIST4610Project2
-Team Name:
-#JAJA
+Team Name: #JAJA
 
-Adiya Tashmetova - 811924443 - @adiyatashmetova
+Adiya Tashmetova - 811924443 - [@adiyatashmetova](https://github.com/adiyatashmetova/Project2-MIST)
 
-Alexa Robles - 811344707 - @Alxaro
+Alexa Robles - 811344707 - [@Alxaro](https://github.com/alxaro/MIST4610Project2)
 
-Jackie Garcia-Torres - 811301319 - @jgarciatorres1
+Jackie Garcia-Torres - 811301319 - [@jgarciatorres1](https://github.com/jgarciatorres1/MIST4610Project2)
 
 Jessica Le - 811469318 - @Jess1ica1le
 
